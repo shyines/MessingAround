@@ -1,0 +1,3 @@
+D:/Apps/Docs/MessingAround/MessingArround/MessingAround/Tetris/cmake-build-debug/CMakeFiles/Tetris.dir
+D:/Apps/Docs/MessingAround/MessingArround/MessingAround/Tetris/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Apps/Docs/MessingAround/MessingArround/MessingAround/Tetris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
